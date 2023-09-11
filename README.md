@@ -8,7 +8,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Vue.
 ## ✨ Features
 
 - 📝 Create, read, update, and delete tasks.
-- 🔄 State management using Vuewx.
+- 🔄 State management using Vuex.
 - 📱 Responsive design with Tailwind CSS.
 
 ## 🛠️ Installation
