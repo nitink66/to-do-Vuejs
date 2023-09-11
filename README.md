@@ -3,7 +3,7 @@
 ## 📚 Overview
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with Vue.js, Tailwind CSS, and Vuex for state management. It allows you to manage your tasks seamlessly with an intuitive user interface.
-![Example Image]()
+![Example Image](https://github.com/nitink66/to-do-Vuejs/blob/main/src/assets/CRUD.png)
 
 ## ✨ Features
 
